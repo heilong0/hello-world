@@ -1,3 +1,3 @@
 # hello-world
 
-added version 1.1
+added version 1.0
